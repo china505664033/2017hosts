@@ -1,2 +1,2 @@
-<h5>Remove as regulations</h5>
-<h5>按照规定移除所有内容</h5>
+<h5>本处短期内不再更新</h5>
+<h5>全部hosts重写中</h5>
